@@ -1,0 +1,3 @@
+[submodule "firehose-chat-settings"]
+	path = firehose-chat-settings
+	url = git@github.com:mysterioustrousers/firehose-chat-settings.git

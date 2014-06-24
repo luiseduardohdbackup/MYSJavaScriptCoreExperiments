@@ -1,0 +1,10 @@
+PODS:
+  - MTPocket (2.0.3)
+
+DEPENDENCIES:
+  - MTPocket
+
+SPEC CHECKSUMS:
+  MTPocket: 399ee23235ee674061af62d8eb33be653fcc2c31
+
+COCOAPODS: 0.33.1
